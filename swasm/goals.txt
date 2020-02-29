@@ -1,1 +1,7 @@
 The purpose of this proposed collaboration is to (1) explore EdgeDB as a viable ORM to interface with Svelte, and (2) use Rust's Web Assembly libraries to bind high-level Svete components to Operating System level processes, hardware, and more.
+
+Shim Opportunities:
+-------------------
+1) Complete bourneag_rs: A library that provides the capability to invoke inline `bash! { }` scripting.
+Similar to the `use inline_python::python` mod, this prelude will likely require the `#![feature(proc_macro_hygiene)]`
+tag
