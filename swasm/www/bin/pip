@@ -1,4 +1,4 @@
-#!/home/david/code/projects/swapi-svelte/swasm/www/bin/python3
+#!/home/david/swapi-svelte/swasm/www/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys

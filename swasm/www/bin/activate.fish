@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/david/code/projects/swapi-svelte/swasm/www"
+set -gx VIRTUAL_ENV "/home/david/swapi-svelte/swasm/www"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

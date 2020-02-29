@@ -1,1 +1,1 @@
-/home/david/code/projects/swapi-svelte/swasm/www/requirements.txt
+www/requirements.txt
