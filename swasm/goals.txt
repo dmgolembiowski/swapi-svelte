@@ -1,0 +1,1 @@
+The purpose of this proposed collaboration is to (1) explore EdgeDB as a viable ORM to interface with Svelte, and (2) use Rust's Web Assembly libraries to bind high-level Svete components to Operating System level processes, hardware, and more.
